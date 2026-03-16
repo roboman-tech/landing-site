@@ -11,9 +11,9 @@ import SectionHeading from "./components/SectionHeading";
 import parseApiError from "./utils/parseApiError";
 import getDeviceId from "./utils/deviceId";
 import { Player } from "@lottiefiles/react-lottie-player";
-import aiAnimation from "../images/chatbot.json";
-import happyChildrenImage from "../images/happy_children.png";
-import cmLovingChildrenImage from "../images/cm-loving-children.png";
+import aiAnimation from "./assets/images/chatbot.json";
+import happyChildrenImage from "./assets/images/happy_children.png";
+import cmLovingChildrenImage from "./assets/images/cm-loving-children.png";
 import {
   ArrowUp,
   ArrowRight,

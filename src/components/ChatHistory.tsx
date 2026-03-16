@@ -1,7 +1,7 @@
 // src/ChatHistory.tsx
 import React, { useEffect, useRef } from 'react';
 import type { Message } from './ChatRoom';
-import Logo from '../../images/logo.png'; // Adjust the path as necessary
+import Logo from  '../assets/images/logo.png'; // Adjust the path as necessary
 interface ChatHistoryProps {
   messages: Message[];
 }
